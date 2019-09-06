@@ -4,13 +4,13 @@
 
 **Your Nameee and Surname**
 
-*Computer Engineering #4 @I.T.U*
+*Computer Engineering #6 @I.T.U*
 
 [*LinkedIn*](https://www.linkedin.com/in/)
 
 **Your Name and Surname**
 
-*Computer Engineering #3 @I.T.U*
+*Computer Engineering #5 @I.T.U*
 
 [*LinkedIn*](https://www.linkedin.com/in/)
 
