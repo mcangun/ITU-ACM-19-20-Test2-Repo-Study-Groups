@@ -17,7 +17,7 @@
 
 ### Prerequisities
 1. Basic knowledge about any programming language.
-2. so on...
+2. CHANGES from mcangun repo....
 
 ### Goal
 
