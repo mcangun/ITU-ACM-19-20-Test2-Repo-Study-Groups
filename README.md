@@ -2,7 +2,7 @@
 
 ### Instructors
 
-**Your Name and Surname**
+**Your Nameee and Surname**
 
 *Computer Engineering #4 @I.T.U*
 
